@@ -1,6 +1,6 @@
 # Rices
 
-- [Blue cat](https://github.com/Royalix/DotFiles/blob/master/README.md#blue-cat)
+- [Blue cat](https://github.com/Royalix/DotFiles/README.md#blue-cat)
 
 ## Blue cat
 
