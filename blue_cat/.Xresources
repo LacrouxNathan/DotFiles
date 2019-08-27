@@ -1,0 +1,56 @@
+! Theme
+
+! special
+*.foreground:   #b8b8c5
+*.background:   #010104
+*.cursorColor:  #b8b8c5
+
+! black
+*.color0:       #cacaca
+*.color8:       #7d7db7
+
+! red
+*.color1:       #7979cc
+*.color9:       #a5a5ff
+
+! green
+*.color2:       #0099cc
+*.color10:      #00ccff
+
+! yellow
+*.color3:       #5079cc
+*.color11:      #6699ff
+
+! blue
+*.color4:       #006699
+*.color12:      #0099cc
+
+! magenta
+*.color5:       #0066ff
+*.color13:      #0099ff
+
+! cyan
+*.color6:       #d2d9d9
+*.color14:      #094d98
+
+! white
+*.color7:       #99cccc
+*.color15:      #ccffff
+
+
+! Config URxvt
+
+URxvt.font: xft:Hack:style=Regular:size=13
+URxvt.boldFont: xft:Hack:style=Bold:size=13
+
+URxvt*saveLines: 10000
+URxvt.scrollBar: false
+URxvt.internalBorder: 15
+
+URxvt.depth: 32
+URxvt.background: rgba:0001/0001/0010/eeee
+
+! Enable Ctrl + shift + C/V
+URxvt.iso14755: false
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard

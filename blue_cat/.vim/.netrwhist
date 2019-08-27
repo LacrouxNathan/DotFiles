@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/nathan/Documents/sodial/android'
+let g:netrw_dirhist_2='/home/nathan/Documents/sodial/android/app/build'
+let g:netrw_dirhist_3='/home/nathan/Documents/sodial/android'
+let g:netrw_dirhist_4='/home/nathan/Documents/domms/domms-mobility-android/app/src/debug/intervention'
+let g:netrw_dirhist_5='/home/nathan/Documents/domms/domms-mobility-android/app/src/debug/round'
